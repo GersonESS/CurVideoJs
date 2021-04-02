@@ -1,6 +1,7 @@
 # CurVideoJs
 Curso Grátis de JavaScript Moderno
  Curso Em Video JavaScript
+ Ver Criando o seu primeiro script - Curso JavaScript #04
  ***********************************
  body
             {
@@ -14,3 +15,15 @@ Curso Grátis de JavaScript Moderno
         window.prompt("Qual é Seu Nome:")
     </script>
 ******************************************
+Ver 
+Variáveis e Tipos Primitivos - Curso JavaScript #05
+*************************************
+// comentario
+/*
+
+*/
+**********************
+faça isto dentro npde-js
+var sexo = "M"
+sexo 
+**************************

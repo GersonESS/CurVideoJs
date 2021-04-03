@@ -30,3 +30,4 @@ faça isto dentro npde-js
 var sexo = "M"
 sexo 
 **************************
+ ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur002.PNG)

@@ -17,7 +17,10 @@ Curso Grátis de JavaScript Moderno
 ******************************************
 Ver 
 Variáveis e Tipos Primitivos - Curso JavaScript #05
+
+ ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur001.PNG)
 *************************************
+
 // comentario
 /*
 
@@ -27,3 +30,4 @@ faça isto dentro npde-js
 var sexo = "M"
 sexo 
 **************************
+ ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur002.PNG)

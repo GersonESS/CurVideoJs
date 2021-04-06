@@ -51,3 +51,5 @@ sexo
 ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur004.PNG)
 ********************
 ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur005.PNG)
+
+parei em 28:00

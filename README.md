@@ -31,6 +31,8 @@ var sexo = "M"
 sexo 
 **************************
  ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur002.PNG)
+ ****************
+ ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur003.PNG)
  
  ************************
  Tratamento de dados - Curso JavaScript #06
@@ -47,4 +49,5 @@ sexo
         var s = n1 + n2
         window.alert("a soma e:" + s)
 ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur004.PNG)
+********************
 ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur005.PNG)

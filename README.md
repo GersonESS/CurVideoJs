@@ -31,3 +31,20 @@ var sexo = "M"
 sexo 
 **************************
  ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur002.PNG)
+ 
+ ************************
+ Tratamento de dados - Curso JavaScript #06
+ *****************************
+ //var n1 = Number.parseInt(window.prompt('Digite um numero:'))
+        //var n2 = Number.parseInt(window.prompt('Digite outro numero:'))
+        //a outra forma
+        var n1 = Number(window.prompt('Digite um numero:'))
+        var n2 = Number(window.prompt('Digite outro numero:'))
+        //a outra forma
+        //string(n)
+        //number(n)
+        //number(n)
+        var s = n1 + n2
+        window.alert("a soma e:" + s)
+![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur004.PNG)
+![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur005.PNG)

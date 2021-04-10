@@ -52,6 +52,7 @@ sexo
 ********************
 ![gersones](https://github.com/GersonESS/CurVideoJs/blob/main/vicur005.PNG)
 
-parei em 28:00
+
 Operadores (Parte1) - Curso JavaScript #07
 Operadores (Parte 2) - Curso JavaScript #08
+Introdução ao DOM - Curso JavaScript #09
